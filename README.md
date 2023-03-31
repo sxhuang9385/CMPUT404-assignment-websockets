@@ -1,3 +1,14 @@
+Contributors
+============
+
+ccid: sxhuang
+student number: 1620975
+
+collaborators:
+Kyle Bricker kbricker
+Helped me with colour ideas
+
+
 CMPUT404-assignment-websockets
 ==============================
 
